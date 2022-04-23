@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("我的Git第一次测试");
         System.out.println("我的Git第二次测试");
         System.out.println("我的Git第三次测试");
+        System.out.println("hot-fix test");
     }
 }
